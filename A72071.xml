@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Hereafter ensue the trewe encountre or ... batayle lately don betwene. Engla[n]de and: Scotlande.]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1513</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72071</idno>
+            <idno type="STC">STC 11088.5</idno>
+            <idno type="STC">ESTC S124930</idno>
+            <idno type="EEBO-CITATION">99898931</idno>
+            <idno type="PROQUEST">99898931</idno>
+            <idno type="VID">150903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150903)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1986:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Hereafter ensue the trewe encountre or ... batayle lately don betwene. Engla[n]de and: Scotlande.]</title>
+               </titleStmt>
+               <extent>[2+] leaves   </extent>
+               <publicationStmt>
+                  <publisher>R. Faques,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1513?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning the battle of Flodden--STC.</note>
+                  <note>Title and imprint from STC.</note>
+                  <note>Reproduction of original in the Cambridge University Library, Cambridge, England.</note>
+                  <note>2 leaves only.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Flodden, Battle of, 1513 --  Early works to 1800.</term>
+               <term>Scotland --  History --  16th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150903:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <gap reason="illegible" resp="#PDCC" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ynge at Awnewik in Northumbrelande the iiij. daye of .Septembre the .v. yere of y<hi rend="sup">e</hi> Rey<g ref="char:EOLunhyphen"/>gne of kynge Henry the .viij. herynge that y<hi rend="sup">e</hi> kynge of Scottes thenne was remoued from. Norhme<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd dyd lye at forde. Caſtel / &amp; in thoſe ꝑtyes dyd moche hurte / in ſpoylyng robynge / and brennynge / ſent to the ſayd kynge of Scottes Ruge Cros purſeuaunte at. Ar<g ref="char:EOLunhyphen"/>mes to ſhewe vnto hym that for ſomoche as he the ſayde kynge contrary to his honour all good reaſon &amp; conſcy<g ref="char:EOLunhyphen"/>ence And his oothe of Fidelite for y<hi rend="sup">e</hi> ferme entartnynge of perpetuall peas betwene the kyngꝭ hygnes our. So<g ref="char:EOLhyphen"/>uerayne lorde and hym had inuaded this Raalme / ſpoylad brente and robbyd dyuers and ſondery townes and places in the ſame. Alſo had caſte and betten downe the Caſtel of Norhm<g ref="char:cmbAbbrStroke">̄</g>e And crewella had murdered &amp; ſlayne many of the kynnes liege people he was co<g ref="char:cmbAbbrStroke">̄</g>men to gyue hym bayta<g ref="char:cmbAbbrStroke">̄</g>. And deſyred hym y<hi rend="sup">t</hi> for / ſomoche / as he was a kynge and a great Prynce he wolde of his luſty &amp; no / ble courage co<g ref="char:cmbAbbrStroke">̄</g>ſent therunto and tarye y<hi rend="sup">e</hi> ſame. And for my ſayde Lordes partie his lordeſhyp promyſed y<hi rend="sup">e</hi> aſſu<g ref="char:EOLunhyphen"/>red Accomplyſſhement and perfourmance therof as he was true knyght to god and the kynge his mayſter The kynge of ſcottes herynge this / meſſage reynued &amp; kepto w<hi rend="sup">t</hi> hym y<hi rend="sup">e</hi> ſayd Ruge Cros purſenau<g ref="char:cmbAbbrStroke">̄</g>ta &amp; wolde nat ſuf<g ref="char:EOLhyphen"/>fre hym at y<hi rend="sup">e</hi> tyme to retourne agayne to my ſayd lorde</p>
+            <p>The .v. daye of Septembre his lordſhyp in his appro<g ref="char:EOLunhyphen"/>chynge nyghe to the borders of. Scotlande / muſtred at Bolton<g ref="char:cmbAbbrStroke">̄</g> in glendayll &amp; lodged that nyght therein y<hi rend="sup">t</hi> fel<g ref="char:EOLhyphen"/>de with all his Armye.</p>
+            <p>¶ The nexte day beynge the .vj daye of Septembre the kynge of ſcottes ſent to my ſayd lor of Surrey a<g ref="char:cmbAbbrStroke">̄</g> harol<g ref="char:EOLunhyphen"/>de of his called. I laye and demaunded if that my ſayde Lorde wolde iuſtefye the meſſage ſent by the ſayd purſe
+<pb facs="tcp:150903:1"/>
+               <!-- PDF PAGE 1 -->
+               <gap reason="illegible" resp="#PDCC" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> ſcottes had ben ſlayne and taken pryſoners louynge vn<g ref="char:EOLhyphen"/>to almyghty god all the noble men of Englande tha we<g ref="char:EOLunhyphen"/>re vpon the ſame felde bothe lordes and knyghtes are ſa<g ref="char:EOLunhyphen"/>fe from any hurte / And none of theym a wantynge ſaue oonly maiſter Harrgy Gray ſyr Huinfeide lyle bothe pryſoners in Scotla<g ref="char:cmbAbbrStroke">̄</g>de ſyr / John<g ref="char:cmbAbbrStroke">̄</g>. Gower of yorkeſhyre and ſyr John<g ref="char:cmbAbbrStroke">̄</g> Boothe of Lancaſſhyre both wantynge and as yet nat founden</p>
+            <p>¶ In this batayle the ſcottes hadde many great Auaun<g ref="char:EOLunhyphen"/>tagies / that is to wytte the hyghe. Hylles and mountay<g ref="char:EOLunhyphen"/>nes a great wynde with them and ſodayne rayne all con<g ref="char:EOLunhyphen"/>trary to oug bowes and Archers</p>
+            <p>¶ It is nat to be doutbted but the ſcottes fought manly and were determyned outher to wynne y<hi rend="sup">e</hi> Felde or to dye They were alſo as well apoynted as waſ poſſyble at all poyntes with Armoure &amp; harneys ſo that fewe of them were ſlayne with arrowes Howbeit the bylles dyd bete-and hewe them downe woth ſome payne and daunger to Englyſſhemen.</p>
+            <p>The ſayd ſcottes were ſo playnely determyned to aby<g ref="char:EOLhyphen"/>de batayle and nat to flee that they put from them theyr-horſes and alſo put of theyr bo<g ref="char:cmbAbbrStroke">̄</g>tes and ſhoes and faught in the vampis / of theyr hooſes euery man for the mooſt-ꝑtie / with a kene and a ſhape ſpere of .v. yerdes longe a<g ref="char:EOLhyphen"/>nd a target aforh hym And when theyr ſperes fayled and wera ſpent / then they faught with great end ſharpe ſwer<g ref="char:EOLhyphen"/>des makyng / lytell or no noys / vithoue that / that for the-ꝑtie many of them wolde deſyre to be ſaued.</p>
+            <p>¶ The felde where y<hi rend="sup">e</hi> ſcottes dyd / lodge was nat to be re<g ref="char:EOLunhyphen"/>prouyd but rather to be co<g ref="char:cmbAbbrStroke">̄</g>mended greatly for there ma<g ref="char:EOLhyphen"/>ny and great nombre of good iyl tenttes and moche good ſtuffe in the ſame &amp; in the ſayd felde was plentie of wyne
+<pb facs="tcp:150903:2"/>
+               <!-- PDF PAGE 2 -->
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for ſuche a great Army Albeit our Armye doutynge that the ſayd vytallyes hadde ben poyſoned for theyr diſtruccyon wolde nat ſaue but vtter<g ref="char:EOLunhyphen"/>ly diſtroyed theym.</p>
+            <p>¶ Hereafter enſueth the names of ſuche noble men as af<g ref="char:EOLunhyphen"/>ter the Felde were made knygheꝭ for theyr valyante Actꝭ in the ſame by my ſayd lorde therle of Surrey.</p>
+            <list>
+               <item>¶ Firſte my lord Scrope of wpſall</item>
+               <item>Sir willm<g ref="char:cmbAbbrStroke">̄</g> Percy</item>
+               <item>Sir Edmonde Hawarde</item>
+               <item>Sir george Darcy.</item>
+               <item>Sir. w. gaſcoygne y<hi rend="sup">e</hi> yo<g ref="char:cmbAbbrStroke">̄</g>ger</item>
+               <item>Sir. willm<g ref="char:cmbAbbrStroke">̄</g>. Medlton<g ref="char:cmbAbbrStroke">̄</g>
+               </item>
+               <item>Sir willm<g ref="char:cmbAbbrStroke">̄</g>. Maleuerdy</item>
+               <item>Sir Thomas. Bartley</item>
+               <item>Sir marmaduke. Co<g ref="char:cmbAbbrStroke">̄</g>ſtable y<hi rend="sup">e</hi> yo<g ref="char:cmbAbbrStroke">̄</g>ger</item>
+               <item>Sir xp<g ref="char:cmbAbbrStroke">̄</g>ofer. Dacre</item>
+               <item>Sir. Hohn<g ref="char:cmbAbbrStroke">̄</g>. Ho<g ref="char:cmbAbbrStroke">̄</g>othome.</item>
+               <item>Sir. Nicholas. Appleyarde.</item>
+               <item>Sire Edwarde. Goorge</item>
+               <item>Sir. Rauf. Ellercar y<hi rend="sup">e</hi> yo<g ref="char:cmbAbbrStroke">̄</g>geo</item>
+               <item>Sir. John<g ref="char:cmbAbbrStroke">̄</g> wyliyby</item>
+               <item>Sir. Edwarde. Echit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghm<g ref="char:cmbAbbrStroke">̄</g>e</item>
+               <item>Sir. Edwarde. Muſgraue</item>
+               <item>Sir. John<g ref="char:cmbAbbrStroke">̄</g> ſtanley</item>
+               <item>Sir. walter ſtonner</item>
+               <item>Sir. Nyuiane martynfelde.</item>
+               <item>Sir. Raffe. Bowes</item>
+               <item>Sir / Briane ſtapleton<g ref="char:cmbAbbrStroke">̄</g> of wyghall.</item>
+               <item>Sir. Guy. Dawny</item>
+               <item>Sir. Raffe ſalwayne</item>
+               <item>Sir. Richarde. Malleuerey</item>
+               <item>Sir willm<g ref="char:cmbAbbrStroke">̄</g>. Co<g ref="char:cmbAbbrStroke">̄</g>nſtable of Hatefelde</item>
+               <item>Sir willm<g ref="char:cmbAbbrStroke">̄</g>. Conſtable of Carethorpe</item>
+               <item>Sir. Xp<g ref="char:cmbAbbrStroke">̄</g>ofer. Danby</item>
+               <item>Sir. Thomas Burght</item>
+               <item>Sir willm<g ref="char:cmbAbbrStroke">̄</g>. Rous</item>
+               <item>Sir. Thomas. Newton<g ref="char:cmbAbbrStroke">̄</g>
+               </item>
+               <item>Sir. Roger of Fenwyke</item>
+               <item>Sir Roger Gray</item>
+               <item>Sir. Thomas Connyers</item>
+               <item>My. lorde Ogle</item>
+               <item>Sir. Thomas ſtrngewaſe</item>
+               <item>Sir. Henri. Thinaittes</item>
+               <item>My lorde lumley</item>
+               <item>Sir. Xp<g ref="char:cmbAbbrStroke">̄</g>ofe. Pekerynge.</item>
+               <item>Sir. John<g ref="char:cmbAbbrStroke">̄</g>. Bulmer</item>
+            </list>
+         </div>
+         <div type="colophon">
+            <p>¶ Emprynted by me. Richarde. Faques dwllyng In poulys churche yerde</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:150903:2"/>
+            <!-- PDF PAGE 2 -->
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> Batayle lately don betwene. Engla<g ref="char:cmbAbbrStroke">̄</g>de and: Scotlande. In whiche batayle the. Scottſſ<g ref="char:EOLhyphen"/>he. Kynge was ſlayne.</p>
+            <figure>
+               <figDesc>depiction of a king emerging from his tent and surrendering his crown to soldiers in a field of battle</figDesc>
+            </figure>
+            <p>¶ The maner of thaduau<g ref="char:cmbAbbrStroke">̄</g>ceſynge of my lord of Surrey treſourier and. Marſhall of. Englande and leuetenu<g ref="char:cmbAbbrStroke">̄</g>te generall of the north ꝑties of th<g ref="char:EOLunhyphen"/>e ſame with .xxvi. M. men to wardes the kyn<g ref="char:EOLhyphen"/>ge of. Scottꝭ and his. Armye vewed and nom / bred to an / hundred thouſande men at / the leeſt.</p>
+            <pb facs="tcp:150903:3"/>
+            <!-- PDF PAGE 3 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150903:3"/>
+            <!-- PDF PAGE 3 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
